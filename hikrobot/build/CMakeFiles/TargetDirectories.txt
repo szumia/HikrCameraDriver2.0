@@ -1,0 +1,3 @@
+/home/nuc/dicky/hikrobot/build/CMakeFiles/rebuild_cache.dir
+/home/nuc/dicky/hikrobot/build/CMakeFiles/edit_cache.dir
+/home/nuc/dicky/hikrobot/build/CMakeFiles/main.dir
